@@ -28,4 +28,7 @@ void main() {
     print("YEAR: $year");
   }
 
+  print("TAGS: ${image['tags']}");
+  print("TAGS: ${image['url']}");
+
 }
